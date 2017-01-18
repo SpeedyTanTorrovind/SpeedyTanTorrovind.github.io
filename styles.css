@@ -1,0 +1,10 @@
+body {
+    background-color: red;
+}
+*:hover {
+    font-family: "Comic Sans MS";
+    background-color: lightblue;
+}
+p:hover{
+    font-size: 72px;
+}
